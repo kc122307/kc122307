@@ -65,16 +65,6 @@ Real-time messaging application with WebRTC calling, online presence, secure aut
 ---
 
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=kc122307&show_icons=true&theme=radical" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kc122307&layout=compact&theme=radical" height="160" />
-
-</div>
-
----
 
 ## ⚒️ What I'm Learning  
 - Building scalable full-stack architectures  
